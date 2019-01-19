@@ -23,7 +23,7 @@ class UsersController extends Controller
      */
     public function create()
     {
-        //
+        return view('sign-up');
     }
 
     /**
@@ -34,7 +34,7 @@ class UsersController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return('Dang ky thanh cong');
     }
 
     /**

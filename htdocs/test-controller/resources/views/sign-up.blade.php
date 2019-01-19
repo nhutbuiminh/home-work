@@ -10,6 +10,7 @@
         <input type="email" placeholder="Enter your email">
         <label for="">Email address</label>
         <input type="password" placeholder="Enter your password">
+        <button class="btn btn-primary" type="button">Create Account</button>
     </form>
 </body>
 </html>
