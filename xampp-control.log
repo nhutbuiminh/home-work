@@ -1,0 +1,72 @@
+6:47:25 CH  [main] 	Initializing Control Panel
+6:47:26 CH  [main] 	Windows Version:  Enterprise  64-bit
+6:47:26 CH  [main] 	XAMPP Version: 7.3.0
+6:47:26 CH  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+6:47:26 CH  [main] 	You are not running with administrator rights! This will work for
+6:47:26 CH  [main] 	most application stuff but whenever you do something with services
+6:47:26 CH  [main] 	there will be a security dialogue or things will break! So think 
+6:47:26 CH  [main] 	about running this application with administrator rights!
+6:47:26 CH  [main] 	XAMPP Installation Directory: "c:\xampp\"
+6:47:26 CH  [main] 	Checking for prerequisites
+6:47:26 CH  [main] 	All prerequisites found
+6:47:26 CH  [main] 	Initializing Modules
+6:47:26 CH  [main] 	Starting Check-Timer
+6:47:26 CH  [main] 	Control Panel Ready
+6:47:34 CH  [Apache] 	Attempting to start Apache app...
+6:47:34 CH  [Apache] 	Status change detected: running
+8:15:29 CH  [mysql] 	Status change detected: running
+9:01:32 CH  [Apache] 	Status change detected: stopped
+9:01:32 CH  [Apache] 	Error: Apache shutdown unexpectedly.
+9:01:32 CH  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:01:32 CH  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:01:32 CH  [Apache] 	Press the Logs button to view error logs and check
+9:01:32 CH  [Apache] 	the Windows Event Viewer for more clues
+9:01:32 CH  [Apache] 	If you need more help, copy and post this
+9:01:32 CH  [Apache] 	entire log window on the forums
+9:01:34 CH  [mysql] 	Status change detected: stopped
+9:01:34 CH  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:01:34 CH  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:01:34 CH  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:01:34 CH  [mysql] 	Press the Logs button to view error logs and check
+9:01:34 CH  [mysql] 	the Windows Event Viewer for more clues
+9:01:34 CH  [mysql] 	If you need more help, copy and post this
+9:01:34 CH  [mysql] 	entire log window on the forums
+9:01:46 CH  [main] 	Deinitializing Modules
+9:01:46 CH  [main] 	Deinitializing Control Panel
+
+8:14:52 CH  [main] 	Initializing Control Panel
+8:14:52 CH  [main] 	Windows Version:  Enterprise  64-bit
+8:14:52 CH  [main] 	XAMPP Version: 7.3.0
+8:14:52 CH  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+8:14:52 CH  [main] 	You are not running with administrator rights! This will work for
+8:14:52 CH  [main] 	most application stuff but whenever you do something with services
+8:14:52 CH  [main] 	there will be a security dialogue or things will break! So think 
+8:14:52 CH  [main] 	about running this application with administrator rights!
+8:14:52 CH  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:14:52 CH  [main] 	Checking for prerequisites
+8:14:52 CH  [main] 	All prerequisites found
+8:14:52 CH  [main] 	Initializing Modules
+8:14:52 CH  [Apache] 	XAMPP Apache is already running on port 80
+8:14:52 CH  [Apache] 	XAMPP Apache is already running on port 443
+8:14:52 CH  [main] 	Starting Check-Timer
+8:14:52 CH  [main] 	Control Panel Ready
+8:15:28 CH  [mysql] 	Status change detected: running
+9:01:32 CH  [Apache] 	Status change detected: stopped
+9:01:32 CH  [Apache] 	Error: Apache shutdown unexpectedly.
+9:01:32 CH  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:01:32 CH  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:01:32 CH  [Apache] 	Press the Logs button to view error logs and check
+9:01:32 CH  [Apache] 	the Windows Event Viewer for more clues
+9:01:32 CH  [Apache] 	If you need more help, copy and post this
+9:01:32 CH  [Apache] 	entire log window on the forums
+9:01:34 CH  [mysql] 	Status change detected: stopped
+9:01:34 CH  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:01:34 CH  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:01:34 CH  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:01:34 CH  [mysql] 	Press the Logs button to view error logs and check
+9:01:34 CH  [mysql] 	the Windows Event Viewer for more clues
+9:01:34 CH  [mysql] 	If you need more help, copy and post this
+9:01:34 CH  [mysql] 	entire log window on the forums
+9:01:46 CH  [main] 	Deinitializing Modules
+9:01:46 CH  [main] 	Deinitializing Control Panel
+

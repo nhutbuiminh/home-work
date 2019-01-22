@@ -5,12 +5,14 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/sign-up.blade.php">
+    <form action="{{asset('sign-up-success')}}" method="POST">
+        {{csrf_field()}}
+        <!-- token ma hoa data -->
         <label for="">Email address</label>
-        <input type="email" placeholder="Enter your email">
+        <input name="email" type="email" placeholder="Enter your email">
         <label for="">Email address</label>
-        <input type="password" placeholder="Enter your password">
-        <button class="btn btn-primary" type="button">Create Account</button>
+        <input name="password" type="password" placeholder="Enter your password">
+        <button class="btn btn-primary" type="submit">Create Account</button>
     </form>
 </body>
 </html>

@@ -32,9 +32,9 @@ class UsersController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(Request $request)//trả về giá trị vừa nhập 
     {
-        return('Dang ky thanh cong');
+        return view('sign-up-success');
     }
 
     /**
